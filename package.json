@@ -7,7 +7,10 @@
     "serve": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.0.5"
+    "postcss-import": "^14.0.0",
+    "postcss-nested": "^5.0.3",
+    "vue": "^3.0.5",
+    "vue-router": "^4.0.3"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^1.1.2",

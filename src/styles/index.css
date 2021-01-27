@@ -1,4 +1,14 @@
-/* ./src/index.css */
+/* ./src/styles/index.css */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.check { 
+  font-weight:bold;
+
+  
+  & .check2 { 
+    color:green;
+  }
+}
+
